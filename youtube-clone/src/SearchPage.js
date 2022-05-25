@@ -33,6 +33,36 @@ function SearchPage() {
         title='Barbell vs Dumbbell vs Resistance Bands vs Bodyweight | Which Workout Training Style Is Best?'
         image='https://i.ytimg.com/vi/UkvYLGzW4uM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsQj7jF7i7se3WzDIiTjvbnIifkA'
       />
+
+<VideoRow
+        views='37k'
+        subs='2.57M'
+        description='Barbells, Dumbells, Mobility Bands and Bodyweight.'
+        timestamp='2 days ago'
+        channel='Buff Dudes'
+        title='Barbell vs Dumbbell vs Resistance Bands vs Bodyweight | Which Workout Training Style Is Best?'
+        image='https://i.ytimg.com/vi/UkvYLGzW4uM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsQj7jF7i7se3WzDIiTjvbnIifkA'
+      />
+
+<VideoRow
+        views='37k'
+        subs='2.57M'
+        description='Barbells, Dumbells, Mobility Bands and Bodyweight.'
+        timestamp='2 days ago'
+        channel='Buff Dudes'
+        title='Barbell vs Dumbbell vs Resistance Bands vs Bodyweight | Which Workout Training Style Is Best?'
+        image='https://i.ytimg.com/vi/UkvYLGzW4uM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsQj7jF7i7se3WzDIiTjvbnIifkA'
+      />
+
+<VideoRow
+        views='37k'
+        subs='2.57M'
+        description='Barbells, Dumbells, Mobility Bands and Bodyweight.'
+        timestamp='2 days ago'
+        channel='Buff Dudes'
+        title='Barbell vs Dumbbell vs Resistance Bands vs Bodyweight | Which Workout Training Style Is Best?'
+        image='https://i.ytimg.com/vi/UkvYLGzW4uM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsQj7jF7i7se3WzDIiTjvbnIifkA'
+      />
     </div>
   )
 }

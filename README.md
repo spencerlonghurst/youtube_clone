@@ -8,3 +8,19 @@ Dependencies:
 
 Search Bar:
 -search 'buff dudes'
+
+/// DEPLOY ///
+
+firebase init
+  -Hosting
+  -Use an existing project
+  -select project
+  -public directory: build
+  -configure as a single-page app: yes
+  -automatic builds and deploys with github: no
+
+  // Run these after any changes //
+
+  -npm run build
+
+  -firebase deploy
