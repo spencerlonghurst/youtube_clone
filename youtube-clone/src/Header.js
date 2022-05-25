@@ -17,15 +17,15 @@ function Header() {
       </div>
 
       <div className='header_input'>
-        <input type='text'/>
+        <input placeholder='Search' type='text'/>
         <SearchSharpIcon className='header_inputButton'/>
         {/* <KeyboardVoiceSharpIcon /> */}
       </div>
 
       <div className='header_icons'>
-        <VideoCallOutlinedIcon />
-        <AppsOutlinedIcon />
-        <NotificationsNoneSharpIcon />
+        <VideoCallOutlinedIcon className='header_icon'/>
+        <AppsOutlinedIcon className='header_icon'/>
+        <NotificationsNoneSharpIcon className='header_icon'/>
         <Avatar alt="Remy Sharp" src="https://avatars.githubusercontent.com/u/94577635?v=4" />
       </div>
     </div>
