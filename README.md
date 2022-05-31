@@ -11,6 +11,7 @@ Search Bar:
 
 /// DEPLOY ///
 
+firebase login (unless you ahve already done this before in previous projects)
 firebase init
   -Hosting
   -Use an existing project
@@ -24,3 +25,6 @@ firebase init
   -npm run build
 
   -firebase deploy
+
+
+TEST TEST TEST
